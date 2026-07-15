@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+  <img src="https://github.com/mohammadzunaid333-hash/mohammadzunaid333-hash/blob/main/ChatGPT%20Image%20Jul%2015%2C%202026%2C%2007_45_42%20PM.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pinjari Mohammed Zunaid</h1>
