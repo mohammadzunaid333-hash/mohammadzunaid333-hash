@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/mohammadzunaid333-hash/mohammadzunaid333-hash/blob/main/ChatGPT%20Image%20Jul%2015%2C%202026%2C%2007_45_42%20PM.png" width="100%" alt="Banner"/>
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;AI+%26+DS+Student;Spring+Boot+Learner;Open+Source+Enthusiast;Always+Learning+🚀"/>
+</p>
 <h1 align="center">Hi 👋, I'm Pinjari Mohammed Zunaid</h1>
 
 <h3 align="center">
@@ -39,13 +41,9 @@ Become a **Software Engineer (Java Backend Developer)**
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,html,css,js,python" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,html,css,js,git,github,vscode,idea&perline=6"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -88,7 +86,9 @@ Bus booking system using PHP & MySQL.
 
 ---
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -112,15 +112,16 @@ Bus booking system using PHP & MySQL.
 
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadzunaid333-hash&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadzunaid333-hash&theme=tokyonight&no-frame=true"/>
 
 </p>
-
 ---
 
 ## 📈 Contribution Graph
+
 
 <p align="center">
 
@@ -129,6 +130,16 @@ Bus booking system using PHP & MySQL.
 </p>
 
 ---
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohammadzunaid333-hash&style=for-the-badge&color=blue"/>
+
+</p>
+## 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 
 ## 🌐 Connect With Me
 
