@@ -1,74 +1,155 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Pinjari+Mohammed+Zunaid;Java+Backend+Developer;AI+%26+DS+Student;Spring+Boot+Learner;Open+Source+Enthusiast" />
+  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Pinjari Mohammed Zunaid</h1>
 
-<h3 align="center">☕ Java Backend Developer | AI & DS Student | B.Tech @ Mohan Babu University</h3>
+<h3 align="center">
+☕ Java Backend Developer | AI & DS Student | Open Source Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;AI+%26+DS+Student;Open+Source+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & DS) @ Mohan Babu University
-- 💻 Aspiring Java Backend Developer
-- 🌱 Currently Learning Java, Spring Boot, MySQL & Git
-- 🚀 Interested in Backend Development and Open Source
-- 📫 Reach me at: **mohammadzunaid333@gmail.com**
+🎓 **B.Tech CSE (AI & DS)** — Mohan Babu University
+
+☕ Passionate about **Java Backend Development**
+
+🌱 Currently Learning
+
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Git & GitHub
+
+🎯 Goal
+
+Become a **Software Engineer (Java Backend Developer)**
+
+📫 Email
+
+**mohammadzunaid333@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- ☕ Java
-- 🐍 Python
-- 💾 MySQL
-- 🌐 HTML, CSS, JavaScript
-- 🐙 Git & GitHub
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,html,css,js,python" />
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🏧 ATM Interface
-- 🎓 Student Course Registration System
-- ❓ Quiz Application
-- ☁️ Data Redundancy Removal System
-- 🚌 Cloud Bus Reservation System
+### 🏧 ATM Interface
+Java-based ATM simulation with account management.
+
+### 🎓 Student Course Registration System
+Console-based registration portal using Java.
+
+### ❓ Quiz Application
+Java quiz system with score tracking.
+
+### ☁️ Data Redundancy Removal System
+Cloud Computing Internship Project.
+
+### 🚌 Cloud Bus Reservation System
+Bus booking system using PHP & MySQL.
+
+---
+
+## 💼 Internships
+
+### 💻 CodSoft
+
+**Java Programming Intern**
+
+- ATM Interface
+- Quiz Application
+- Student Course Registration System
+
+---
+
+### ☁️ CodeAlpha
+
+**Cloud Computing Intern**
+
+- Data Redundancy Removal System
+- Cloud Bus Reservation System
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadzunaid333-hash&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadzunaid333-hash&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzunaid333-hash&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadzunaid333-hash&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohammadzunaid333-hash&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💻 Most Used Languages
+## 🏆 GitHub Trophies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzunaid333-hash&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadzunaid333-hash&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
-## 📊 GitHub Stats
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadzunaid333-hash&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadzunaid333-hash&theme=tokyo-night"/>
+
 </p>
 
-## 🔥 GitHub Streak
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadzunaid333-hash&theme=tokyonight" />
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mohammadzunaid333@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
-## 💻 Most Used Languages
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzunaid333-hash&layout=compact&theme=tokyonight" />
-</p>
+
 ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+</p>
