@@ -1,8 +1,15 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohammadzunaid333-hash/mohammadzunaid333-hash/main/banner.svg" width="100%">
 </p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohammadzunaid333-hash/mohammadzunaid333-hash/main/822610688177069311.jpg" width="700">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammadzunaid333-hash/mohammadzunaid333-hash/main/WhatsApp%20Image%202026-07-16%20at%207.43.01%20PM%20(1).jpeg" width="100%">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Pinjari Mohammed Zunaid</h1>
 
