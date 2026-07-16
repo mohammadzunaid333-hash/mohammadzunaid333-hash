@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/mohammadzunaid333-hash/mohammadzunaid333-hash/blob/main/ChatGPT%20Image%20Jul%2015%2C%202026%2C%2007_45_42%20PM.png" width="100%" alt="Banner"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;AI+%26+DS+Student;Spring+Boot+Learner;Open+Source+Enthusiast;Always+Learning+🚀"/>
-</p>
+  <img src="https://raw.githubusercontent.com/mohammadzunaid333-hash/mohammadzunaid333-hash/main/822610688177069311.jpg" width="700">
+
 <h1 align="center">Hi 👋, I'm Pinjari Mohammed Zunaid</h1>
 
 <h3 align="center">
